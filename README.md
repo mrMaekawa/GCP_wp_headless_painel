@@ -1,1 +1,1 @@
-# GCP_wp_headless_painel
+# Estudo - WordPress Headless - Painel
